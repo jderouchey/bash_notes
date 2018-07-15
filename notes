@@ -1,0 +1,6 @@
+Just wanted a countdown timer
+
+termdown $(/usr/bin/dateutils.ddiff $(date +%R) 12:15 -f '%Hh%0Mm')
+
+how to install termdown and datediff with dateutils
+
