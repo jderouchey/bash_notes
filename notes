@@ -4,3 +4,6 @@ termdown $(/usr/bin/dateutils.ddiff $(date +%R) 12:15 -f '%Hh%0Mm')
 
 how to install termdown and datediff with dateutils
 
+https://www.howtoforge.com/tutorial/install-git-and-github-on-ubuntu-14.04/
+
+Having trouble pushing changes to respoitory  will need to work on this later
